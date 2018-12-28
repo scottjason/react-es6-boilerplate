@@ -4,8 +4,6 @@
 # React ES6 Boilerplate
 ### A simple `create-react-app` boilerplate with a few additional add-ons and an image gallery template.
 
-![enter image description here](https://s3-us-west-1.amazonaws.com/sj-portfolio/readme-img-boilerplate.jpg)
-
 ## Customizations
 **Styled Components**
 ```
@@ -68,3 +66,4 @@ To test:
 yarn test 
 ```
 
+![enter image description here](https://s3-us-west-1.amazonaws.com/sj-portfolio/readme-img-boilerplate.jpg)
