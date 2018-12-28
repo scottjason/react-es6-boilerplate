@@ -1,8 +1,10 @@
 
 
 
+
 # React ES6 Boilerplate
-### A simple `create-react-app` boilerplate with a few additional add-ons and an image gallery template.
+### A simple `create-react-app` boilerplate with a few additional add-ons and an image gallery template, demo [here](https://react-es6-boilerplate.herokuapp.com/).
+
 
 ## Customizations
 **Styled Components**
